@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+data/cache/
+outputs/
+VALIDACAO.json
+docs/RESULTADOS_LOCAIS.md
+docs/AMBIENTE.md
+docs/POST_WV_LAB.md
