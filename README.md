@@ -117,4 +117,4 @@ Consulte [Onde entra o analista](docs/TRABALHO_ANALISTA.md) para relacionar a pe
 3. Estudar a importação das tabelas no Power BI.
 4. Revisar as condições da fonte antes de divulgar dados ou gráficos derivados.
 
-Projeto educacional em desenvolvimento. Nenhuma publicação em redes sociais foi realizada.
+Projeto educacional em desenvolvimento. Uma apresentação do projeto foi publicada no Instagram WV.LAB. Os dados, gráficos e resultados locais continuam sujeitos à revisão das condições de redistribuição descrita acima.
